@@ -1,30 +1,44 @@
 # Agentic AI Web Assistant - SaaS
+# 📊 DataVault AI
+<img width="1904" height="962" alt="image" src="https://github.com/user-attachments/assets/945ec22c-ec6d-4cc9-80c4-0fb02d31e0af" />
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+**Website:** [https://datavaultai.vercel.app](https://datavaultai.vercel.app)
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/kshitizsingh1688-1672s-projects/v0-agentic-ai-web-assistant-saa-s)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/WI7dQAEhCQC)
+DataVault AI is an intuitive, AI-powered platform designed to help individuals and teams analyze, visualize, and manage data effortlessly. Powered by cutting-edge AI, it enables non-technical users to generate insights, build dashboards, and automate workflows—all through natural language.
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## 🚀 Features
 
-## Deployment
+- ⚡️ **AI-Powered Queries** – Ask questions in plain English and get data-driven answers.
+- 📈 **Interactive Dashboards** – Create beautiful, shareable dashboards with zero code.
+- 🔒 **Secure Data Handling** – Privacy-first design with encryption and access control.
+- 📁 **Multi-Source Support** – Connect to spreadsheets, APIs, databases, and more.
+- 🤖 **Smart Automation** – Automate recurring reports and alerts.
 
-Your project is live at:
+---
 
-**[https://vercel.com/kshitizsingh1688-1672s-projects/v0-agentic-ai-web-assistant-saa-s](https://vercel.com/kshitizsingh1688-1672s-projects/v0-agentic-ai-web-assistant-saa-s)**
+## 🛠 Tech Stack
 
-## Build your app
+- **Frontend:** React + Tailwind CSS
+- **Backend:** Node.js / Serverless functions (Vercel)
+- **AI Integration:** OpenAI GPT APIs
+- **Hosting:** [Vercel](https://vercel.com/)
 
-Continue building your app on:
+---
 
-**[https://v0.dev/chat/projects/WI7dQAEhCQC](https://v0.dev/chat/projects/WI7dQAEhCQC)**
+## 🧠 Getting Started (Development)
 
-## How It Works
+> To run locally, you'll need Node.js and Yarn or npm installed.
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+```bash
+# Clone the repo
+git clone https://github.com/your-username/datavaultai.git
+cd datavaultai
+
+# Install dependencies
+npm install
+
+# Run the app locally
+npm run dev
+
